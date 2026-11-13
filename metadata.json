@@ -1,0 +1,6 @@
+{
+  "name": "Grupo Welvaart",
+  "description": "Plataforma operativa, comercial y de manufactura textil para Grupo Welvaart: control de producción, procesos especiales, inventarios, logística y facturación CFDI 4.0.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
